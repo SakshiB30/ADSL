@@ -1,5 +1,5 @@
 // Design a hash table for a product inventory system where keys are product IDs, and values are stock details. Implement separate chaining and linear probing for collision handling. Analyze time complexity.
-
+  
 #include <iostream>
 #include <list>
 using namespace std;
