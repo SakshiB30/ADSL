@@ -109,7 +109,7 @@ public:
         }
     }
 };
-w
+
 // ---------- MAIN MENU ----------
 int main() {
     int size, choice, method;
